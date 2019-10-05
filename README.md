@@ -9,9 +9,9 @@ Add [CMS BlueButton 2.0](https://bluebutton.cms.gov) authentication to your [mic
 ## Installation
 
 ```sh
-npm install --save microauth-bluebutton
+npm install --save micro-bluebutton
 # or
-yarn add microauth-bluebutton
+yarn add micro-bluebutton
 ```
 
 ## Usage
