@@ -1,6 +1,6 @@
 {
   "name": "@alohahealth/micro-bluebutton",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CMS Blue Button 2.0 OAuth for ZEIT Micro",
   "main": "index.js",
   "scripts": {
