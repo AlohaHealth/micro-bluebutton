@@ -9,9 +9,9 @@ Add [CMS BlueButton 2.0](https://bluebutton.cms.gov) authentication to your [mic
 ## Installation
 
 ```sh
-npm install --save micro-bluebutton
+npm install --save @alohahealth/micro-bluebutton
 # or
-yarn add micro-bluebutton
+yarn add @alohahealth/micro-bluebutton
 ```
 
 ## Usage
