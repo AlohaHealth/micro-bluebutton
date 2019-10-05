@@ -1,0 +1,33 @@
+{
+  "name": "@alohahealth/micro-bluebutton",
+  "version": "0.1.0",
+  "description": "CMS Blue Button 2.0 OAuth for ZEIT Micro",
+  "main": "index.js",
+  "scripts": {
+    "example": "micro example.js",
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alohahealth/micro-bluebutton"
+  },
+  "author": "Adam Barry <adam@alohahealth.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-prettier": "^6.3.0",
+    "xo": "^0.25.3"
+  },
+  "peerDependencies": {
+    "micro": "^9.3.4"
+  },
+  "dependencies": {
+    "micro-redirect": "^1.0.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "uuid": "^3.3.3"
+  },
+  "xo": {
+    "spaces": 2,
+    "extends": "prettier"
+  }
+}
