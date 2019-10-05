@@ -3,8 +3,8 @@ const microBlueButton = require('.');
 
 const options = {
   dev: process.env.NODE_ENV !== 'production',
-  clientId: 'SaOsv29YMwhCGcfYEaRA99bPrvOc749pJ37ewJuO',
-  clientSecret: 'nHJVUQwKKnZyQ1lCRAZskZw1flJDaRHpguplvaJl8jIDIA42nK1KYP13rITFMPzymXpMO3ehHfQ0xiiCmvSOj17GtU2euQ8TARGIDegtNtytJgYiX55WViMB6ISwL5H4',
+  clientId: 'CLIENT_ID',
+  clientSecret: 'CLIENT_SECRET',
   callbackUrl: 'http://localhost:3000/auth/callback',
   path: '/auth/bluebutton',
 };
